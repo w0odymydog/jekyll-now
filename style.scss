@@ -98,6 +98,7 @@ h4 {
 
 table {
     border-collapse: collapse;
+    table-shadow: 30px 30px black;
 }
 
 table, th, td {
@@ -108,7 +109,7 @@ th {
     color: white;
 }
 div {
-	table-shadow: 10px 10px grey;
+	table-shadow: 30px 30px black;
 }
 p {
   font-family: Courier New;
