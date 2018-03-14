@@ -101,9 +101,12 @@ table {
 }
 
 table, th, td {
-    border: 1px solid black;
+  border: 1px solid black;
 }	
-
+th {
+    background-color: #ccffff;
+    color: white;
+}
 p {
   font-family: Courier New;
 	margin: 4px 0;
